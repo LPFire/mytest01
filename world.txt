@@ -1,5 +1,9 @@
 bbbbbbbbbb
 bbbbbbbbbb
 aaaaaaaa
+<<<<<<< .mine
 ccccccccccccc
-测试一下....
+=======
+ccccccccccccc
+>>>>>>> .theirs
+我的世界测试一下....

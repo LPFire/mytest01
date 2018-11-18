@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:09:54:11 +0800] "GET /HelloWorld HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:09:54:12 +0800] "GET /HelloWorld/ HTTP/1.1" 200 284 http-bio-8080-exec-3 581
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:09:54:12 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:09:54:31 +0800] "GET /HelloWorld/helloWorld HTTP/1.1" 200 284 http-bio-8080-exec-5 7
